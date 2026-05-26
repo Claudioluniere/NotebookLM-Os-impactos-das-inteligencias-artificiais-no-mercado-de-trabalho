@@ -1,5 +1,6 @@
 # NotebookLM-Os-impactos-das-inteligencias-artificiais-no-mercado-de-trabalho
-Os impactos das inteligencias artificiais no mercado de trabalho
+
+Os impactos das inteligencias artificiais no mercado de trabalho (https://notebooklm.google.com/notebook/1dc44966-426e-4b0f-be9e-1cbe691d025e/preview)
 
 Este relatório consolida as principais descobertas e a metodologia de estudo aplicada ao caderno temático sobre os impactos da Inteligência Artificial (IA) no mercado de trabalho.
 
